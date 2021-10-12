@@ -1,2 +1,2 @@
 # Документация по API
-* [student](student.md)
+* [doctors](doctors.md)
