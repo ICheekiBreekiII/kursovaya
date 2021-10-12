@@ -13,9 +13,9 @@
 |Название|Тип|Описание|
 |--------|---|--------|
 |id|INT|ID врача|
-|name|string|имя врача|
-|surname|string|фамилия врача|
-|position|string|должность|
+|name|text|имя врача|
+|surname|text|фамилия врача|
+|position|text|должность|
 |age|INT|возраст|
 
 ### Пример ответа
